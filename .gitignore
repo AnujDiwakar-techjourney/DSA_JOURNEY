@@ -1,9 +1,0 @@
-# Ignore compiled C++ executables
-*.exe
-
-# Ignore object files
-*.o
-
-# Ignore VS Code build folders
-.vscode/
-build/
